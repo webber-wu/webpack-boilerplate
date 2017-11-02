@@ -1,0 +1,6 @@
+@import "setup/_setup.css";
+@import "partials/_header.css";
+@import "partials/_footer.css";
+
+@import "pages/index.css";
+

@@ -1,0 +1,7 @@
+.bg{
+    width: 400px;
+    height: 400px;
+    background-image: url( $image-path/image-sample.jpg);
+    background-size: cover;
+    background-position: center;
+}

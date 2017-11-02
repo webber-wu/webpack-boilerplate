@@ -1,0 +1,16 @@
+{
+    "plugins": {
+        "postcss-import": {},
+        "postcss-custom-media": {},
+        "postcss-simple-vars": {},
+        "postcss-nested": {},
+        "postcss-initial": {
+            reset: 'inherited'
+        },
+        "postcss-mixins": {},
+        "postcss-cssnext": {},
+        "postcss-math": {},
+        "postcss-color-function": {},
+        "postcss-clearfix": {}
+    }
+}

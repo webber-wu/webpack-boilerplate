@@ -1,0 +1,13 @@
+extends ../partials/layout.pug
+
+block vars
+    - var imagePath = '../../images';
+
+//- block window_title
+//-     = '首頁'
+
+block main-wrapper
+    h1 Home
+    .bg
+    p photo from #[a(href="https://unsplash.com/photos/bs2Ba7t69mM" target="_blank") https://unsplash.com/photos/bs2Ba7t69mM] 
+    img(src = imagePath + '/image-sample.jpg')

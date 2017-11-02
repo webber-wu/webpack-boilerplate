@@ -1,0 +1,6 @@
+/* 定義 media query 樣式名稱*/
+@custom-media --pad (width >= 768px);
+@custom-media --desktop (width >= 1024px);
+@custom-media --desktop-w (width >= 1280px);
+@custom-media --desktop-hd (width >= 1440px);
+@custom-media --desktop-fullhd (width >= 1920px);
